@@ -1,6 +1,6 @@
 # Spring-Config-Server
 Spring Cloud Config adalah salah satu feature dari Netflix yang memungkinkan konfigurasi di atur oleh server ini. Konfigurasi yang di simpan di server ini bukan hanya untuk service ini, tp bisa juga untuk semua service yang ada.</br> 
-Cara kerja dari Spring Config Server ini adalah pada saat server ini booting dia akan mencari bootstrap.yml yang memiliki property letak dari konfigurasi file
+Cara kerja dari Spring Config Server ini adalah pada saat server ini booting dia akan lookup file configurasi dan akan meng-maintence konfigurasi tersebut.
 
 # Dependencies
 Config Server
