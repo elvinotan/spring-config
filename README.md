@@ -33,5 +33,5 @@ server:
 ```
 3. Untuk Setup sisi server selesai, next please refer to spring-config-client
 
-# note
+# Note
 Contoh lain ```https://github.com/kennyk65/Microservices-With-Spring-Student-Files/tree/master/lab-3/server-solution```
