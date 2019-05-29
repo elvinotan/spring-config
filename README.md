@@ -18,7 +18,7 @@ public class ServerApplication {
 	
 }
 ```
-2. Buatlah bootstrap.yml sebagai pengganti application.properties. 
+2. Buatlah bootstrap.yml sebagai pengganti application.properties. Property dibawah ini mengacu pada lokasi file konfigurasi
 ```
 ---
 spring:
