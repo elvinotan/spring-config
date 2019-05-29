@@ -9,3 +9,6 @@ Config Server
 2. Buatlah bootstrap.properties selevel dengan application.properties. lalu isi dengan nilai <code>spring.cloud.config.server.git.uri=https://github.com/elvinotan/config</code>. 
 Konfigurasi ini menandakan pada saat server config ini hidup, please ambil konfigurasi di alamat <code>https://github.com/elvinotan/config</code>
 3. Untuk Setup sisi server selesai, next please refer to spring-config-client
+
+# note
+Contoh lain ```https://github.com/kennyk65/Microservices-With-Spring-Student-Files/tree/master/lab-3/server-solution```
